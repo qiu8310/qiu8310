@@ -1,5 +1,5 @@
 
-<img src="https://api.daily.dev/devcards/6e1ee722a2224c218e0de3ff33c14411.png?r=0rd" width="400" alt="Zhonglei Qiu's Dev Card"/>
+<img src="https://github.com/qiu8310/qiu8310/blob/master/devcard.svg" width="400" alt="Zhonglei Qiu's Dev Card"/>
 
 <!--
 **qiu8310/qiu8310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
